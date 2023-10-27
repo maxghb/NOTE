@@ -4,7 +4,7 @@ List
 - power bi
 
 Job
-- digitizer
+- digitizer (ok)
 - it change
 - บสส
 - gsmo
