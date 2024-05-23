@@ -3,5 +3,5 @@
 	2.สร้าง repo ใน github
 	3. git add .
 	4. git commit -m "first commit"
-	5. push
+	5. git push
 	6. Syn
